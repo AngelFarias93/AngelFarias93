@@ -1,4 +1,4 @@
-<h2>Hello, world! <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70"></h2>
+<h2>:wave: Hello, world! <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70"></h2>
 
 <p>I'm currently a software engineer <strong><a href="https://aws.amazon.com/">@aws</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
 
