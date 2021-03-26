@@ -1,4 +1,6 @@
-<h2>Hola, soy Angel Farias <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="100"></h2>
+<h2>Hi Partners <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70"></h2>
+
+<p align="center"><a href="https://angular-buch.com"><img src="https://angular-buch.com/assets/img/book-cover-multiple.png" alt="Angular - Grundlagen, fortgeschrittene Themen und Best Practices (3. Auflage)"></img></a></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
