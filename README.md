@@ -52,7 +52,7 @@
 
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 
-### <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
