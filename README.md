@@ -15,6 +15,15 @@
 </ul>
 
 ## 🔧 Technologies & Tools
+
+- Front-end development using **HTML, Javascript, CSS, SASS, Bootstrap**.
+- Backend development using **Flask, Django**.
+- Making for **Relational Database Management Systems**.
+- Robust full-stack system design implementation.
+- Desktop application development using **Flutter** (Still learning).
+- Mobile application development using **Flutter and Kotlin**.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- Solving Data structure and algorithm questions in **Java and Python**.
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
@@ -23,28 +32,8 @@
 ![](https://img.shields.io/badge/Framework-NODE-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
-- Making for **Relational Database Management Systems**.
-- Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
 
-<p align="left">
-<img src="https://www.flaticon.es/svg/vstatic/svg/1216/1216733.svg?token=exp=1616859028~hmac=54ab2f8bfd7018e689e6879962e24e31" alt="html" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="css3" width="25" height="25" />
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1616858594~hmac=3a33a7d686e1bfa8dfc7f40d98bc7ac0" alt="php" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_apache_icon_130750.png" alt="apache" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-</p>
+
 
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...  
 
@@ -65,10 +54,18 @@ const thai = {
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<p align="left">
+<img src="https://www.flaticon.es/svg/vstatic/svg/1216/1216733.svg?token=exp=1616859028~hmac=54ab2f8bfd7018e689e6879962e24e31" alt="html" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="css3" width="25" height="25" />
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1616858594~hmac=3a33a7d686e1bfa8dfc7f40d98bc7ac0" alt="php" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_apache_icon_130750.png" alt="apache" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+</p>
+
 ---
-
-
-<h2>🚀 Some Tools I Use</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
