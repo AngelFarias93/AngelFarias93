@@ -17,13 +17,10 @@
 ## 🔧 Technologies & Tools
 
 - Front-end development using **HTML, Javascript, CSS, SASS, Bootstrap**.
-- Backend development using **Flask, Django**.
+- Backend development using **PHP**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**. 
+- Creating scalable cloud architecture using **GCP**.
 <br><br>
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -36,20 +33,15 @@
 
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...  
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const angel = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, SASS, Javascript, Typescript, Python],
+  tools: [Next, Node, Webpack, Styled-Components, GCP],
+  architecture: ["microservices", "microservices", "event-driven", "design system pattern"],
+  challenge: "I am doing the #100DaysCss challenge focused on improving my code."
 }
 ```
-<p align="left">
+<p align="center">
 <img src="https://www.flaticon.es/svg/vstatic/svg/1216/1216733.svg?token=exp=1616859028~hmac=54ab2f8bfd7018e689e6879962e24e31" alt="html" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
