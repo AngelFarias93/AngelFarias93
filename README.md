@@ -1,6 +1,6 @@
 <h2>:wave: Hello, world! <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70"></h2>
 
-<p>I'm currently a software engineer <strong><a href="https://aws.amazon.com/">@aws</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p>I'm currently an Electronics and Communication Engineer 👨🏽‍💻. I am working in web development, I like to learn new things and improve every day.</p>
 
 <p>
     <a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> 
