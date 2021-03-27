@@ -1,6 +1,6 @@
 <h2>:wave: Hello, world! <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70"></h2>
 
-<p>I'm currently an Electronics and Communication Engineer 👨🏽‍💻. I am working in web development, I like to learn new things and improve every day.</p>
+<p>I'm currently an Electronics and Communication Engineer 👨🏽‍💻. I'm working in web development and passionate about making the web accessible to everyone. I love sharing my knowledge with others. When I'm not coding, you can find me doing 💪🏽 exercise or playing 🎮 video games. I like to learning a different stufs like play drums 🥁, photography 📸, astronomy 🌌.</p>
 
 <p>
     <a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> 
