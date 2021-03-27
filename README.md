@@ -2,21 +2,9 @@
 
 <p>I'm currently an Electronics and Communication Engineer 👨🏽‍💻. I'm working in web development and passionate about making the web accessible to everyone. I love sharing my knowledge with others. When I'm not coding, you can find me doing 💪🏽 exercise or playing 🎮 video games. I like to learning a different stufs like play drums 🥁, photography 📸, astronomy 🌌.</p>
 
-
-    
-<p>
-    <a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> 
-    <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> 
-    <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
-    <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAFM0129" alt="Twitter"></a> 
-    <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
-</p>
-    
-[![Gmail Badge](https://img.shields.io/badge/-angelfarias32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelfarias32@gmail.com)](mailto:angelfarias32@gmail.com)
-
-[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) 
-[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) 
-[![Spotify Badge](https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575)](https://open.spotify.com/user/22etj2scobo5kiyypg2jkfw6y)
+[![Twitter Badge](https://img.shields.io/badge/-@AFM0129-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AFM0129)](https://twitter.com/AFM0129) 
+[![Linkedin Badge](https://img.shields.io/badge/-Angel Farias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angel-farias-monroy-468649173/)](https://www.linkedin.com/in/miguel-angel-farias-monroy-468649173/) 
+[![Spotify Badge](https://img.shields.io/badge/-@Angel Farias%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575)](https://open.spotify.com/user/22etj2scobo5kiyypg2jkfw6y)
 [![Gmail Badge](https://img.shields.io/badge/-angelfarias32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelfarias32@gmail.com)](mailto:angelfarias32@gmail.com)
 
 
