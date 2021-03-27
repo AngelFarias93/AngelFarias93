@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
-<img align="left" src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" width="350">
+<img align="left" src="https://media.giphy.com/media/11ZSwQNWba4YF2/source.gif">
 
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...  
 ```javascript
