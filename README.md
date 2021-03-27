@@ -58,4 +58,4 @@ const angel = {
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
 
-<img src="https://drive.google.com/file/d/12R2glEb8a7di84HTvsFzrcbB-oUauQqE/view?usp=sharing" width="60"><em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you!</em>
+<img src="https://www.meistertask.com/blog/wp-content/uploads/2020/06/Meeting-Productivity-Tips-796x417.jpg" width="60"><em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you!</em>
