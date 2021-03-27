@@ -31,14 +31,15 @@
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
+<img align="left" src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" width="350">
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...  
 ```javascript
 const angel = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, SASS, Javascript, Typescript, Python],
-  tools: [Next, Node, Webpack, Styled-Components, GCP],
-  architecture: ["microservices", "microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysCss challenge focused on improving my code."
+  code: [HTML, CSS, SASS, Javascript, Typescript, jQuery, Php, SQL],
+  tools: [Next, Node, Webpack, Styled-Components],
+  architecture: ["MVC", "microservices", "event-driven", "design system pattern"],
+  challenge: "I'm doing the #100DaysCss challenge focused on improving my code."
 }
 ```
 <p align="center">
