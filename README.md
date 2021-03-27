@@ -4,7 +4,15 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@AFM0129-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AFM0129)](https://twitter.com/AFM0129) [![Linkedin Badge](https://img.shields.io/badge/-Angel%20Farias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angel-farias-monroy-468649173/)](https://www.linkedin.com/in/miguel-angel-farias-monroy-468649173/) [![Spotify Badge](https://img.shields.io/badge/-@Angel%20Farias-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22etj2scobo5kiyypg2jkfw6y)](https://open.spotify.com/user/22etj2scobo5kiyypg2jkfw6y) [![Gmail Badge](https://img.shields.io/badge/-angelfarias32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelfarias32@gmail.com)](mailto:angelfarias32@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Tecsolt-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCN11mwyqHX5UrmPaRGWdMNQ)](https://www.youtube.com/channel/UCN11mwyqHX5UrmPaRGWdMNQ)
 
-
+<img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" width="350">
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/Tecsolt">Tecsolt</a>.</li>
+<li>🧐 Learning about <b>server architectures</b>, <b>distributed systems</b>.</li>
+<li>👨‍💻 Looking for the <b>best user experience</b> on any platform.</li>
+<li>💬 Ping me about <b>JS, minimalism, patterns, and cloud stuff</b>.</li>
+<li>🎉 Fun Fact: Every day there are approximately 5.5 billion searches on Google。</li>
+</ul>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
@@ -15,6 +23,14 @@
 ![](https://img.shields.io/badge/Framework-NODE-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
+- Backend development using **Flask, Django**.
+- Making for **Relational Database Management Systems**.
+- Robust full-stack system design implementation.
+- Desktop application development using **Flutter** (Still learning).
+- Mobile application development using **Flutter and Kotlin**.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- Solving Data structure and algorithm questions in **Java and Python**.
 
 <p align="left">
 <img src="https://www.flaticon.es/svg/vstatic/svg/1216/1216733.svg?token=exp=1616859028~hmac=54ab2f8bfd7018e689e6879962e24e31" alt="html" width="25" height="25" />
@@ -29,20 +45,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
-
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
-</ul>
-
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...  
 
