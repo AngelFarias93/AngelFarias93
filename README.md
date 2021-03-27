@@ -17,14 +17,14 @@
 ![](https://img.shields.io/badge/Editor-Visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 <p align="left">
-<img src="https://drive.google.com/file/d/12PBcCqQe4LtwkzlI7XzCasLZfLD1aRRg/view?usp=sharing" alt="html" width="25" height="25" />
+<img src="https://www.flaticon.es/svg/vstatic/svg/1216/1216733.svg?token=exp=1616859028~hmac=54ab2f8bfd7018e689e6879962e24e31" alt="html" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="css3" width="25" height="25" />
 <img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1616858594~hmac=3a33a7d686e1bfa8dfc7f40d98bc7ac0" alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://drive.google.com/file/d/12OR1Vs6hhib5Rg7KxUddg_tg29vUXBTM/view?usp=sharing" alt="apache" width="25" height="25" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_apache_icon_130750.png" alt="apache" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
