@@ -59,4 +59,4 @@ const angel = {
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
 
-<img src="https://minutes.co/wp-content/uploads/2019/04/shutterstock_1214730637.png" width="80"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you!</em>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Collaboration_logo_V2.svg" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you!</em>
