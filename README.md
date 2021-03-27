@@ -4,7 +4,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@AFM0129-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AFM0129)](https://twitter.com/AFM0129) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Angel-Farias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angel-farias-monroy-468649173/)](https://www.linkedin.com/in/miguel-angel-farias-monroy-468649173/)
+[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/)
 
 [![Spotify Badge](https://img.shields.io/badge/-@Angel Farias%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575)](https://open.spotify.com/user/22etj2scobo5kiyypg2jkfw6y)
 
