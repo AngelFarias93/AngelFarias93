@@ -26,12 +26,13 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-LARAVEL-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-NODE-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
-<img align="left" src="https://media.giphy.com/media/11ZSwQNWba4YF2/source.gif">
+<img align="left" src="https://media.giphy.com/media/11ZSwQNWba4YF2/source.gif" width="200">
 
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...  
 ```javascript
