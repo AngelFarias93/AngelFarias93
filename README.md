@@ -52,6 +52,7 @@ const angel = {
 <img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1616858594~hmac=3a33a7d686e1bfa8dfc7f40d98bc7ac0" alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="25" height="25" />
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_apache_icon_130750.png" alt="apache" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
