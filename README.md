@@ -23,7 +23,7 @@
 - Desktop application development using **Flutter** (Still learning).
 - Mobile application development using **Flutter and Kotlin**.
 - Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
+- Solving Data structure and algorithm questions in **Java and Python**. <br>
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
@@ -33,10 +33,7 @@
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
-
-
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...  
-
 ```javascript
 const thai = {
   pronouns: "she" | "her",
@@ -51,9 +48,6 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 <p align="left">
 <img src="https://www.flaticon.es/svg/vstatic/svg/1216/1216733.svg?token=exp=1616859028~hmac=54ab2f8bfd7018e689e6879962e24e31" alt="html" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
@@ -68,4 +62,4 @@ const thai = {
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
 
----
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
