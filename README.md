@@ -45,11 +45,11 @@ const angel = {
 }
 ```
 <p align="center">
-<img src="https://www.flaticon.es/svg/vstatic/svg/1216/1216733.svg?token=exp=1616859028~hmac=54ab2f8bfd7018e689e6879962e24e31" alt="html" width="25" height="25" />
+<img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="css3" width="25" height="25" />
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1616858594~hmac=3a33a7d686e1bfa8dfc7f40d98bc7ac0" alt="php" width="25" height="25" />
+<img src="https://image.flaticon.com/icons/png/512/919/919830.png" alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="25" height="25" />
