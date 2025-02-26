@@ -50,7 +50,7 @@ const angel = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="css3" width="25" height="25" />
-<img src="https://image.flaticon.com/icons/png/512/919/919830.png" alt="php" width="25" height="25" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJO6dYQFqGX2TEJxyB-6mIfkoK0LdGLVy6ew&s" alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="25" height="25" />
