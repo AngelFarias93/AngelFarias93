@@ -1,8 +1,5 @@
 I'm a developer oriented to Web Applications of all kinds with experience in both Back and Frontend.
 
-Tecsolt Team
-www.tecsolt.com
-
 <h2>:wave: Hello, world! <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70"></h2>
 
 <p>I'm currently an Electronics and Communication Engineer 👨🏽‍💻. I'm working in web development and passionate about making the web accessible to everyone. I love sharing my knowledge with others. When I'm not coding, you can find me doing 💪🏽 exercise or playing 🎮 video games. I like learning differents stuffs, for example playinng drums 🥁, photography 📸, astronomy 🌌.</p>
@@ -12,20 +9,19 @@ www.tecsolt.com
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" width="350">
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Tecsolt">Tecsolt</a>.</li>
 <li>🧐 Learning about <b>server architectures</b>, <b>distributed systems</b>.</li>
 <li>👨‍💻 Looking for the <b>best user experience</b> on any platform.</li>
 <li>💬 Ping me about <b>JS, minimalism, patterns, and cloud stuff</b>.</li>
-<li>🎉 Fun Fact: Every day there are approximately 5.5 billion searches on Google。</li>
+<li>🎉 Fun Fact: Every day there are approximately 5.5 billion searches on Google.</li>
 </ul>
 
 ## 🔧 Technologies & Tools
 
-- Front-end development using **HTML, Javascript, CSS, SASS, Bootstrap**.
-- Backend development using **PHP**.
-- Making for **Relational Database Management Systems**.
-- Robust full-stack system design implementation.
-- Creating scalable cloud architecture using **GCP**.
+- Front-end development using **HTML3, CSS3, SASS, Javascript, Bootstrap(3, 4 y 5), jQuery, Vue.js**.
+- Back-end development using **PHP, Python, Laravel(8,11), Node.js**.
+- Databases using **MySQL, MariaDB, PostgreSQL, Apache HTTP Server.**.
+- Creating scalable cloud architecture using **Google Cloud, AWS, Azure**.
+- Other Tools: **Visual Studio Code, Sublimetext, WordPress, Webpack, Gulp, NPM, Composer, Postman, Slack, DBeaver, MySQL Workbench, Google Cloud SDK, NoMachine, Paquetería Office 365, Figma, Canva**.
 <br><br>
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -43,8 +39,8 @@ www.tecsolt.com
 ```javascript
 const angel = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, SASS, Javascript, Typescript, jQuery, Php, SQL],
-  tools: [Next, Node, Webpack, Styled-Components],
+  code: [HTML, CSS, SASS, Javascript, Typescript, Vue.js, jQuery, PHP, Laravel, Python, SQL, Git],
+  tools: [Visual Studio Code, Figma, Gulp, Webpack, Styled-Components, Composer, Postman],
   architecture: ["MVC", "microservices", "event-driven", "design system pattern"],
   challenge: "I'm doing the #100DaysCss challenge focused on improving my code."
 }
