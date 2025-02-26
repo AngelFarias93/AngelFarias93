@@ -1,5 +1,3 @@
-I'm a developer oriented to Web Applications of all kinds with experience in both Back and Frontend.
-
 <h2>:wave: Hello, world! <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70"></h2>
 
 <p>I'm currently an Electronics and Communication Engineer 👨🏽‍💻. I'm working in web development and passionate about making the web accessible to everyone. I love sharing my knowledge with others. When I'm not coding, you can find me doing 💪🏽 exercise or playing 🎮 video games. I like learning differents stuffs, for example playinng drums 🥁, photography 📸, astronomy 🌌.</p>
